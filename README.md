@@ -18,3 +18,4 @@ In this project we will build a chat app using Node, express & socket.io with ro
 
 5. Ahamd Amaireh
 
+[Test it on Heroku](https://ahmadchatapp.herokuapp.com)
