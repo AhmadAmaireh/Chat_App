@@ -1,10 +1,11 @@
 {
   "name": "chat_app",
   "version": "1.0.0",
-  "description": "## Full Stack Squad",
+  "description": "Realtime chat app with rooms",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server",
     "start": "node server.js"
   },
   "repository": {
@@ -12,7 +13,7 @@
     "url": "git+https://github.com/AhmadAmaireh/Chat_App.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Ahmad Amaireh",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/AhmadAmaireh/Chat_App/issues"
